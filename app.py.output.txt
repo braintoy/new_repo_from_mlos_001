@@ -1,7 +1,10 @@
-PUSH from app 2
+
+QWQWQWQWQWQW
+
+CUSOTM APP 001
 
 
-Test herre
+est herre
 SEC - 1
 SEC - 2
 SEC - 3
@@ -17,6 +20,3 @@ SEC - 12
 SEC - 13
 SEC - 1
 SEC - 1
-
-
-
