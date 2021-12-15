@@ -1,18 +1,1 @@
-{
-    "raw": "NotAdded",
-    "target": "NotAdded",
-    "dbl1": "dbs",
-    "dbl2": "/",
-    "algo": "CustomApp",
-    "algogenre": "original",
-    "apath": "mlp",
-    "algotype": "custa",
-    "vcount": 0,
-    "name": "aaax",
-    "project": "ff37ca2140bf4238842453af5ce3fc59",
-    "id": "idcusta50",
-    "custid": "ppaul@braintoy.ai_aaax",
-    "desc": "ppp",
-    "script": "aaax.py",
-    "newval": "XXX"
-}
+{"raw": "NotAdded", "target": "NotAdded", "dbl1": "dbs", "dbl2": "/", "algo": "CustomApp", "algogenre": "original", "apath": "mlp", "algotype": "custa", "vcount": 0, "name": "TestAppKwame", "project": "ff37ca2140bf4238842453af5ce3fc59", "id": "idcusta618", "custid": "ppaul@braintoy.ai_TestAppKwame", "desc": "", "script": "TestAppKwame.py"}
